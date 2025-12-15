@@ -1,5 +1,5 @@
-import Tipos.Camiseta;
-import Tipos.CamisetaEstampada;
+import entidades.Camiseta;
+import entidades.CamisetaEstampada;
 import java.util.Locale;
 import java.util.Scanner;
 
